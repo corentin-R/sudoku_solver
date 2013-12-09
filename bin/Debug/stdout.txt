@@ -1,0 +1,2 @@
+tour=1
+nb cases vides = 70
